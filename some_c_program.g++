@@ -4,3 +4,7 @@ int main () {
     return 0;
   }
 
+void helperFunction() {
+	printf("some bugged code");
+}
+
