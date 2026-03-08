@@ -5,6 +5,6 @@ int main () {
   }
 
 void helperFunction() {
-	printf("some bugged code");
+	printf("fixed helper function");
 }
 
