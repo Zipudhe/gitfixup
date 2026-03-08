@@ -1,1 +1,3 @@
 # Implementa teste 2
+
+Corrige test2 que não estava pegando todos os casos que já deveria estar no primeiro commit
