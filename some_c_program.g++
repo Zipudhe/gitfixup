@@ -8,3 +8,7 @@ void helperFunction() {
 	printf("fixed helper function");
 }
 
+char helperHelperFunction() {
+	printf("testing fixup");
+}
+
