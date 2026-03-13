@@ -2,4 +2,4 @@
 
 Adiciona texto que poderia estar lá desde o inicio
 
-Um novo texto para que brad
+Um novo texto
